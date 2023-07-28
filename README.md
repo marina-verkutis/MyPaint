@@ -52,13 +52,13 @@
 
 Дуга
 
-<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/c1433037-db8e-4c3f-a8ae-21c4110ee12a" width="500">
-<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/3d4222f7-ffd9-4cb9-b1d9-701a3e8885fd" width="500">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/c1433037-db8e-4c3f-a8ae-21c4110ee12a" width="500" height="350">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/3d4222f7-ffd9-4cb9-b1d9-701a3e8885fd" width="500" height="350">
 
 Текст
 
-<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/d127fcd5-a644-4d5c-ac74-9eaa5d649cbd" width="500">
-<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/6d2ea001-82f3-4683-97c0-c103e8f85ca7" width="500">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/d127fcd5-a644-4d5c-ac74-9eaa5d649cbd" width="500" height="350">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/6d2ea001-82f3-4683-97c0-c103e8f85ca7" width="500" height="350">
 
 Выделение и удаление
 

@@ -28,10 +28,10 @@
 ## Демонстрация работы
 1. Оконо программы
 <img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/bb823cfd-4ca6-45af-846e-79e1c7ffd793" width="500">
-3. Создание рабочей области
 
-![image](https://github.com/marina-verkutis/MyPaint/assets/124586787/43ad309e-ed2a-4585-acf8-1f108096ce98)
-![image](https://github.com/marina-verkutis/MyPaint/assets/124586787/b0303f6b-8882-445c-ad03-e1d6df043e3c)
+3. Создание рабочей области
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/43ad309e-ed2a-4585-acf8-1f108096ce98" width="500">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/b0303f6b-8882-445c-ad03-e1d6df043e3c" width="500">
 
 5. Применение инструментов
 

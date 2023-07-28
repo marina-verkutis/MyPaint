@@ -28,7 +28,7 @@
 ## Демонстрация работы
 1. Оконо программы
 
-<img src="[path/to/screenshot.png](https://github.com/marina-verkutis/MyPaint/assets/124586787/bb823cfd-4ca6-45af-846e-79e1c7ffd793)" width="500">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/bb823cfd-4ca6-45af-846e-79e1c7ffd793" width="500">
 
 
 3. Создание рабочей области

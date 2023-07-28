@@ -74,3 +74,5 @@
 
 <img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/309820a4-caaf-4916-a1dc-f0ee5cfc6ff1" width="500" height="350">
 <img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/76ebaa18-a7b0-47b1-8877-beb6075a256a" width="500" height="350">
+
+Проект выполнен в Embarcadero C++ Builder

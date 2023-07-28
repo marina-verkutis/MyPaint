@@ -62,7 +62,7 @@
 
 Выделение и удаление
 
-<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/d4ee0c7d-d8b4-4142-a364-c1aeb3dea723" width="500">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/d4ee0c7d-d8b4-4142-a364-c1aeb3dea723" width="500"> <br>
 <img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/0f7ce945-f9ba-45a7-8648-6dd52ad0dbc9" width="500">
 <img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/f9585eef-7e14-4931-a50d-9708dd705f93" width="500">
 

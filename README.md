@@ -63,8 +63,8 @@
 Выделение и удаление
 
 <img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/d4ee0c7d-d8b4-4142-a364-c1aeb3dea723" width="500"> <br>
-<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/0f7ce945-f9ba-45a7-8648-6dd52ad0dbc9" width="500" heigth="500">
-<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/f9585eef-7e14-4931-a50d-9708dd705f93" width="500" heigth="500">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/0f7ce945-f9ba-45a7-8648-6dd52ad0dbc9" width="500" height="500">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/f9585eef-7e14-4931-a50d-9708dd705f93" width="500" height="500">
 
 Указатель
 
@@ -72,5 +72,5 @@
 
 Сохранение изображения
 
-<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/309820a4-caaf-4916-a1dc-f0ee5cfc6ff1" width="500">
-<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/76ebaa18-a7b0-47b1-8877-beb6075a256a" width="500">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/309820a4-caaf-4916-a1dc-f0ee5cfc6ff1" width="500" height="500">
+<img src="https://github.com/marina-verkutis/MyPaint/assets/124586787/76ebaa18-a7b0-47b1-8877-beb6075a256a" width="500" height="500">
